@@ -9,3 +9,5 @@ Thumbs.db
 
 # Node.js/dependency folders (if any)
 node_modules/
+.cache/
+_archive/
