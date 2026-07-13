@@ -5,5 +5,5 @@
   "autoPullInterval": 15,
   "pullOnStartup": true,
   "pushOnCommit": true,
-  "gitPath": "C:\\Tools\\MinGit\\cmd\\git.exe"
+  "gitPath": "/usr/bin/git"
 }
