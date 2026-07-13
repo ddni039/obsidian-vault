@@ -1,0 +1,11 @@
+# Obsidian system files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node.js/dependency folders (if any)
+node_modules/
